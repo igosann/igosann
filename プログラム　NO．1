@@ -1,0 +1,6 @@
+〈htlm〉
+〈meta charset=“UTF-8”〉
+〈script〉
+document.writer("こんばんは");
+〈/script〉
+〈/ntlm〉
