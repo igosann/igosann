@@ -1,6 +1,6 @@
 〈htlm〉
-〈meta charset=“UTF-8”〉
+〈meta charset="UTF-8"〉
 〈script〉
-document.writer("こんばんは");
+　document.writer("囲碁");
 〈/script〉
-〈/ntlm〉
+〈/htlm〉
